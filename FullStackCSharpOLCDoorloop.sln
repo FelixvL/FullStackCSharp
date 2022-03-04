@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackCSharpOLCDoorloop", "FullStackCSharpOLCDoorloop\FullStackCSharpOLCDoorloop.csproj", "{C269D67C-5C7D-47BA-9FFE-9313E9103C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLaag", "DatabaseLaag\DatabaseLaag.csproj", "{38C22FB6-A9F2-48E9-BCE8-31D403D02F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C269D67C-5C7D-47BA-9FFE-9313E9103C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C269D67C-5C7D-47BA-9FFE-9313E9103C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C269D67C-5C7D-47BA-9FFE-9313E9103C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C269D67C-5C7D-47BA-9FFE-9313E9103C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C22FB6-A9F2-48E9-BCE8-31D403D02F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C22FB6-A9F2-48E9-BCE8-31D403D02F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C22FB6-A9F2-48E9-BCE8-31D403D02F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C22FB6-A9F2-48E9-BCE8-31D403D02F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFF0E78-F874-4D99-97DA-3FE91A3D0C45}
+	EndGlobalSection
+EndGlobal
